@@ -24,7 +24,7 @@ efibootmgr:SKP
 efivar:ADD
 elilo:ADD
 elogind:SKP
-elvis:ADD
+elvis:SKP
 etc:ADD
 eudev:ADD
 f2fs-tools:SKP
@@ -78,7 +78,7 @@ mtx:SKP
 ncompress:SKP
 ndctl:ADD
 ntfs-3g:SKP
-nvi:ADD
+nvi:SKP
 openssl-solibs:ADD
 openssl10-solibs:ADD
 os-prober:SKP

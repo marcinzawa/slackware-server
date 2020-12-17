@@ -63,7 +63,7 @@ libnetfilter_queue:SKP
 libnfnetlink:SKP
 libnftnl:SKP
 libqmi:SKP
-libtirpc:SKP
+libtirpc:ADD
 links:SKP
 lynx:SKP
 mcabber:SKP
