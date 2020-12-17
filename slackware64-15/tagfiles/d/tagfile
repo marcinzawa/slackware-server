@@ -13,7 +13,7 @@ cvs:SKP
 dev86:SKP
 distcc:SKP
 doxygen:SKP
-flex:SKP
+flex:ADD
 gcc:ADD
 gcc-brig:SKP
 gcc-g++:SKP
@@ -27,7 +27,7 @@ gettext-tools:SKP
 git:ADD
 gnucobol:SKP
 gperf:SKP
-guile:SKP
+guile:ADD
 gyp:SKP
 help2man:SKP
 icecream:SKP

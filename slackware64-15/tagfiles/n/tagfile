@@ -35,7 +35,7 @@ httpd:SKP
 icmpinfo:SKP
 iftop:SKP
 inetd:SKP
-iproute2:SKP
+iproute2:ADD
 ipset:SKP
 iptables:ADD
 iptraf-ng:SKP
@@ -52,16 +52,16 @@ libgpg-error:ADD
 libksba:SKP
 libmbim:SKP
 libmilter:ADD
-libmnl:SKP
+libmnl:ADD
 libndp:SKP
 libnetfilter_acct:SKP
-libnetfilter_conntrack:SKP
+libnetfilter_conntrack:ADD
 libnetfilter_cthelper:SKP
 libnetfilter_cttimeout:SKP
 libnetfilter_log:SKP
 libnetfilter_queue:SKP
-libnfnetlink:SKP
-libnftnl:SKP
+libnfnetlink:ADD
+libnftnl:ADD
 libqmi:SKP
 libtirpc:ADD
 links:SKP
@@ -73,7 +73,7 @@ mtr:SKP
 mutt:SKP
 nc:SKP
 ncftp:SKP
-net-snmp:SKP
+net-snmp:ADD
 net-tools:ADD
 netatalk:SKP
 netdate:SKP
@@ -95,7 +95,7 @@ newspost:SKP
 nfacct:SKP
 nfs-utils:SKP
 nftables:SKP
-nghttp2:SKP
+nghttp2:ADD
 nmap:SKP
 nn:SKP
 npth:SKP
@@ -108,7 +108,7 @@ openssh:ADD
 openssl:ADD
 openssl10:ADD
 openvpn:SKP
-p11-kit:SKP
+p11-kit:ADD
 pam-krb5:SKP
 php:SKP
 pidentd:SKP

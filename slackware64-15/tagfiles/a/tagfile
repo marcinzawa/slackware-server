@@ -13,7 +13,7 @@ cpio:ADD
 cpufrequtils:SKP
 cracklib:ADD
 cryptsetup:SKP
-dbus:SKP
+dbus:ADD
 dcron:ADD
 devs:ADD
 dialog:ADD
@@ -23,7 +23,7 @@ ed:SKP
 efibootmgr:SKP
 efivar:ADD
 elilo:ADD
-elogind:SKP
+elogind:ADD
 elvis:SKP
 etc:ADD
 eudev:ADD
@@ -41,7 +41,7 @@ gptfdisk:ADD
 grep:ADD
 grub:SKP
 gzip:ADD
-haveged:ADD
+haveged:SKP
 hdparm:ADD
 hostname:ADD
 hwdata:ADD
@@ -84,7 +84,7 @@ openssl10-solibs:ADD
 os-prober:SKP
 pam:ADD
 patch:SKP
-pciutils:SKP
+pciutils:ADD
 pcmciautils:SKP
 pkgtools:ADD
 plzip:ADD

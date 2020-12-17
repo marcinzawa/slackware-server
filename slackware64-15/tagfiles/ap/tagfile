@@ -36,14 +36,14 @@ jove:SKP
 ksh93:SKP
 libx86:SKP
 linuxdoc-tools:SKP
-lm_sensors:SKP
+lm_sensors:ADD
 lsof:SKP
 lsscsi:SKP
 lxc:SKP
 madplay:SKP
 man-db:ADD
 man-pages:ADD
-mariadb:SKP
+mariadb:ADD
 mc:ADD
 moc:SKP
 most:SKP

@@ -30,7 +30,7 @@ atkmm:SKP
 audiofile:SKP
 babl:SKP
 boost:SKP
-brotli:SKP
+brotli:ADD
 cairo:SKP
 cairomm:SKP
 cfitsio:SKP
@@ -50,7 +50,7 @@ dvdauthor:SKP
 ebook-tools:SKP
 eigen2:SKP
 eigen3:SKP
-elfutils:SKP
+elfutils:ADD
 enchant:SKP
 esound:SKP
 espeak-ng:SKP
@@ -67,7 +67,7 @@ fribidi:SKP
 fuse:SKP
 fuse3:SKP
 gamin:SKP
-gc:SKP
+gc:ADD
 gcr:SKP
 gd:SKP
 gdbm:SKP
@@ -80,7 +80,7 @@ gjs:SKP
 glade:SKP
 glib:SKP
 glib-networking:SKP
-glib2:SKP
+glib2:ADD
 glibc:ADD
 glibc-i18n:ADD
 glibc-profile:SKP
@@ -159,8 +159,8 @@ libdiscid:SKP
 libdmtx:SKP
 libdvdnav:SKP
 libdvdread:SKP
-libedit:SKP
-libevent:SKP
+libedit:ADD
+libevent:ADD
 libexif:SKP
 libfakekey:SKP
 libffi:SKP
@@ -218,7 +218,7 @@ libsoup:SKP
 libspectre:SKP
 libssh:SKP
 libssh2:SKP
-libtasn1:SKP
+libtasn1:ADD
 libtheora:SKP
 libtiff:SKP
 libunistring:ADD
@@ -226,7 +226,7 @@ libunwind:SKP
 libusb:ADD
 libusb-compat:SKP
 libusbmuxd:SKP
-libuv:SKP
+libuv:ADD
 libvisio:SKP
 libvisual:SKP
 libvisual-plugins:SKP
@@ -245,10 +245,10 @@ libxml2:ADD
 libxslt:SKP
 libyaml:SKP
 libzip:SKP
-lmdb:SKP
+lmdb:ADD
 loudmouth:SKP
-lz4:SKP
-lzo:SKP
+lz4:ADD
+lzo:ADD
 media-player-info:SKP
 mhash:SKP
 mlt:SKP
@@ -324,7 +324,7 @@ rttr:SKP
 sbc:SKP
 sdl:SKP
 serf:ADD
-sg3_utils:SKP
+sg3_utils:ADD
 shared-desktop-ontologies:SKP
 shared-mime-info:SKP
 sip:SKP
@@ -346,13 +346,13 @@ tango-icon-theme-extras:SKP
 tdb:SKP
 tevent:SKP
 tidy-html5:SKP
-utf8proc:SKP
+utf8proc:ADD
 v4l-utils:SKP
 vid.stab:SKP
 vte:SKP
 wavpack:SKP
 woff2:SKP
 xapian-core:SKP
-xxHash:SKP
+xxHash:ADD
 zlib:SKP
-zstd:SKP
+zstd:ADD
