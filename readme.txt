@@ -1,3 +1,80 @@
-You can download tar archive for Slackware 15/current here:
+Memory usage after installation is only 45MB
+Disk usage xx GB while regular slackware full instalation takes 10GB.
 
+You can download tar archive here:
+
+Slackware 15
 http://public.pionica.com/pubfiles/linux/tagfiles15.tar
+
+Slackware 14.2
+https://public.pionica.com/pubfiles/linux/slackconfig-14.2.tar
+
+In order to use PHP gd module you need to install additionally:
+
+x/fontconfig
+x/libXpm
+x/libX11
+x/libxcb
+x/libXau
+x/libXdmcp
+
+Missing libraries (will not be included wthout good reason):
+
+x/libXt
+x/libXext
+x/libSM
+x/libICE
+x/libXaw
+x/libXmu
+x/libXt
+x/libglut
+x/libGL
+x/libcairo
+
+To install QEMU (http://www.slackware.com/~alien/slackbuilds/qemu/) you will need to manually install these dependencies:
+
+ap/flac
+l/pulseaudio
+l/SDL2
+l/SDL2_image
+l/gtk+3
+l/pango
+l/atk
+l/cairo
+l/gdk-pixbuf2
+l/libsndfile
+l/fribidi
+l/libxkbcommon
+l/at-spi2-atk
+l/at-spi2-core
+l/vorbis
+l/opus
+l/libogg
+x/libepoxy
+x/mesa
+x/pixman
+x/libglvnd
+x/libXext
+x/libXrender
+x/libXinerama
+x/libXrandr
+x/libXcomposite
+x/libXfixes
+x/libXdamage
+x/libXcursor
+x/libXi
+x/wayland
+x/libdrm
+
+Missing dependencies after installing libraries for QEMU (they will not be included without good reason). Because of that you will probably not be able to user sound card device in VM:
+
+libXft needed by pango-view
+libGLEW needed by glthreads glxpixmap glinfo and few others from MESA
+libGLU needed by glthreads glxpixmap glinfo and few others from MESA
+liborc needed by pulseaudio
+libspeexdsp needed by pulseaudio
+libgtk-X11 needed by iodbcadm-gtk
+libgdk-X11 needed by iodbcadm-gtk
+
+
+
