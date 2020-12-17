@@ -1,5 +1,6 @@
-Memory usage after installation is only 45MB
-Disk usage xx GB while regular slackware full instalation takes 10GB.
+Memory usage after installation is only 40MB.
+Disk usage 2.6 GB while regular slackware full instalation takes 10GB.
+It is required to install initrd before first reboot as this set of packages is using generic kernel, not huge.
 
 You can download tar archive here:
 
