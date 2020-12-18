@@ -119,7 +119,7 @@ utempter:ADD
 util-linux:ADD
 volume_key:SKP
 which:ADD
-xfsprogs:SKP
+xfsprogs:ADD
 xz:ADD
 zerofree:ADD
 zoo:SKP

@@ -12,7 +12,7 @@ bsd-finger:SKP
 ca-certificates:ADD
 cifs-utils:SKP
 conntrack-tools:SKP
-crda:SKP
+crda:ADD
 curl:ADD
 cyrus-sasl:ADD
 dhcp:SKP
