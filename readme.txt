@@ -93,4 +93,5 @@ libgtk-X11 needed by iodbcadm-gtk
 libgdk-X11 needed by iodbcadm-gtk
 
 
+Feel free to send me any change requests: https://www.linuxquestions.org/questions/slackware-14/slackware-set-of-packages-for-headless-server-no-gui-4175686983
 
