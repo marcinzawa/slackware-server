@@ -34,7 +34,7 @@ x/libxcb
 x/libXau
 x/libXdmcp
 
-Missing libraries (will not be included wthout good reason):
+Missing libraries (will not be included without good reason):
 
 x/libXt
 x/libXext
@@ -82,7 +82,7 @@ x/libXi
 x/wayland
 x/libdrm
 
-Missing dependencies after installing libraries for QEMU (they will not be included without good reason). Because of that you will probably not be able to user sound card device in VM:
+Missing dependencies after installing libraries for QEMU (they will not be included without good reason). Because of that you will probably not be able to use sound card device in Virtual Machines, however Windows sound is working through Windows Remote Desktop client:
 
 libXft needed by pango-view
 libGLEW needed by glthreads glxpixmap glinfo and few others from MESA
@@ -93,5 +93,5 @@ libgtk-X11 needed by iodbcadm-gtk
 libgdk-X11 needed by iodbcadm-gtk
 
 
-Feel free to send me any change requests: https://www.linuxquestions.org/questions/slackware-14/slackware-set-of-packages-for-headless-server-no-gui-4175686983
+Feel free to send me any change requests in post on the forum: https://www.linuxquestions.org/questions/slackware-14/slackware-set-of-packages-for-headless-server-no-gui-4175686983
 
