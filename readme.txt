@@ -23,7 +23,7 @@ Slackware 15
 http://public.pionica.com/pubfiles/linux/tagfiles15.tar
 
 Slackware 14.2
-http://public.pionica.com/pubfiles/linux/tagfiles15.tar
+http://public.pionica.com/pubfiles/linux/tagfiles142.tar
 
 In order to use PHP gd module you need to install additionally:
 
