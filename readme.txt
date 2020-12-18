@@ -2,6 +2,21 @@ Memory usage after installation is only 40MB.
 Disk usage 2.6 GB while regular slackware full instalation takes 10GB.
 It is required to install initrd before first reboot as this set of packages is using generic kernel, not huge.
 
+#LANG=en_US.uUTF-8 df -h
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs            32M  348K   32M   2% /run
+devtmpfs        7.9G     0  7.9G   0% /dev
+/dev/vda3      1005G  2.6G  952G   1% /
+tmpfs           7.9G     0  7.9G   0% /dev/shm
+cgroup_root     8.0M     0  8.0M   0% /sys/fs/cgroup
+/dev/vda1       190M   37M  140M  21% /boot
+
+#LANG=en_US.uUTF-8 free -m
+              total        used        free      shared  buff/cache   available
+Mem:          16016          42       15885           0          88       15764
+Swap:          2047           0        2047
+
+
 You can download tar archive here:
 
 Slackware 15
