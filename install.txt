@@ -1,0 +1,3 @@
+Create /boot filesystem:
+
+mkfs.ext4 -I 256 -O 64bit /dev/vda1

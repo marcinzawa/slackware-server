@@ -213,7 +213,7 @@ libsecret:SKP
 libsigc++:SKP
 libsigsegv:SKP
 libsndfile:SKP
-libsodium:SKP
+libsodium:ADD
 libsoup:SKP
 libspectre:SKP
 libssh:ADD
