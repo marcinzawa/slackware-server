@@ -27,6 +27,7 @@ elogind:ADD
 elvis:SKP
 etc:ADD
 eudev:ADD
+exfatprogs:ADD
 f2fs-tools:SKP
 file:ADD
 findutils:ADD
