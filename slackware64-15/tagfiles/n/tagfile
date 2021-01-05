@@ -15,6 +15,7 @@ conntrack-tools:SKP
 crda:ADD
 curl:ADD
 cyrus-sasl:ADD
+dehydrated:SKP
 dhcp:SKP
 dhcpcd:ADD
 dnsmasq:SKP
