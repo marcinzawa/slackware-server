@@ -20,7 +20,7 @@ dialog:ADD
 dosfstools:SKP
 e2fsprogs:ADD
 ed:SKP
-efibootmgr:SKP
+efibootmgr:ADD
 efivar:ADD
 elilo:ADD
 elogind:ADD
