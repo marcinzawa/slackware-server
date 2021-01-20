@@ -17,7 +17,7 @@ dbus:ADD
 dcron:ADD
 devs:ADD
 dialog:ADD
-dosfstools:SKP
+dosfstools:ADD
 e2fsprogs:ADD
 ed:SKP
 efibootmgr:ADD
