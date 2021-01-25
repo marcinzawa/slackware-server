@@ -98,11 +98,8 @@ graphite2:ADD
 gsettings-desktop-schemas:SKP
 gsl:SKP
 gst-plugins-base:SKP
-gst-plugins-base0:SKP
 gst-plugins-good:SKP
-gst-plugins-good0:SKP
 gst-plugins-libav:SKP
-gstreamer:SKP
 gstreamer0:SKP
 gtk+:SKP
 gtk+2:SKP

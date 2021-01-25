@@ -107,7 +107,6 @@ openldap:SKP
 openobex:SKP
 openssh:ADD
 openssl:ADD
-openssl10:ADD
 openvpn:SKP
 p11-kit:ADD
 pam-krb5:SKP

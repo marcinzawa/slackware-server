@@ -83,7 +83,6 @@ ndctl:ADD
 ntfs-3g:SKP
 nvi:SKP
 openssl-solibs:ADD
-openssl10-solibs:ADD
 os-prober:SKP
 pam:ADD
 patch:SKP
