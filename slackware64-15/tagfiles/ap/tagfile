@@ -69,7 +69,7 @@ sox:SKP
 sqlite:ADD
 squashfs-tools:SKP
 sudo:SKP
-sysstat:SKP
+sysstat:ADD
 terminus-font:ADD
 texinfo:SKP
 tmux:SKP
