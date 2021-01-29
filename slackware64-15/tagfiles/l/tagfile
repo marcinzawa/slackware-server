@@ -100,7 +100,7 @@ gsl:SKP
 gst-plugins-base:SKP
 gst-plugins-good:SKP
 gst-plugins-libav:SKP
-gstreamer0:SKP
+gstreamer:SKP
 gtk+:SKP
 gtk+2:SKP
 gtk+3:SKP
