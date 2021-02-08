@@ -1,5 +1,6 @@
 aaa_base:ADD
-aaa_elflibs:ADD
+aaa_glibc-solibs:ADD
+aaa_libraries:ADD
 aaa_terminfo:ADD
 acl:ADD
 acpid:SKP
@@ -35,7 +36,6 @@ floppy:SKP
 gawk:ADD
 genpower:SKP
 gettext:SKP
-glibc-solibs:ADD
 glibc-zoneinfo:ADD
 gpm:SKP
 gptfdisk:ADD
