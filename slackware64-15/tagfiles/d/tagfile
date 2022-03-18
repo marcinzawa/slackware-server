@@ -50,6 +50,7 @@ patchelf:SKP
 perl:ADD
 pkg-config:SKP
 pmake:SKP
+poke:SKP
 python-pip:SKP
 python-setuptools:SKP
 python2:SKP
