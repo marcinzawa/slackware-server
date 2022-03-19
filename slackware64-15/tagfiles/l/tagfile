@@ -211,7 +211,7 @@ librevenge:SKP
 librsvg:SKP
 libsamplerate:SKP
 libsass:SKP
-libseccomp:SKP
+libseccomp:ADD
 libsecret:SKP
 libsigc++:SKP
 libsigc++3:SKP
