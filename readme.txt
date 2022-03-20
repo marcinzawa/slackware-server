@@ -49,6 +49,12 @@ x/libcairo
 
 To install QEMU (http://www.slackware.com/~alien/slackbuilds/qemu/) you will need to manually install these dependencies:
 
+device-tree-compiler-1.6.1-x86_64-1alien.txz
+jack2-1.9.20-x86_64-1alien.txz
+qemu-6.2.0-x86_64-1alien.txz
+vde-2.3.2-x86_64-1alien.tgz
+virglrenderer-0.9.1-x86_64-1alien.txz
+
 ap/flac
 l/pulseaudio
 l/SDL2
