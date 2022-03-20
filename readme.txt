@@ -53,7 +53,6 @@ ap/flac
 l/pulseaudio
 l/SDL2
 l/SDL2_image
-l/gtk+3
 l/pango
 l/atk
 l/cairo
@@ -63,9 +62,11 @@ l/fribidi
 l/libxkbcommon
 l/at-spi2-atk
 l/at-spi2-core
-l/vorbis
+l/libvorbis
 l/opus
 l/libogg
+l/fuse3
+l/libsamplerate
 x/libepoxy
 x/mesa
 x/pixman
