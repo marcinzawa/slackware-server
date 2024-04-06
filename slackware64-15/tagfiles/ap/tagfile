@@ -68,7 +68,7 @@ soma:SKP
 sox:SKP
 sqlite:ADD
 squashfs-tools:SKP
-sudo:SKP
+sudo:ADD
 sysstat:ADD
 terminus-font:ADD
 texinfo:SKP
