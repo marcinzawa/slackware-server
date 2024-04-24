@@ -16,7 +16,7 @@ doxygen:SKP
 flex:ADD
 gcc:ADD
 gcc-brig:SKP
-gcc-g++:SKP
+gcc-g++:ADD
 gcc-gdc:SKP
 gcc-gfortran:SKP
 gcc-gnat:SKP
