@@ -173,7 +173,7 @@ libgtop:SKP
 libical:SKP
 libid3tag:SKP
 libidl:SKP
-libidn:SKP
+libidn:ADD
 libidn2:SKP
 libieee1284:SKP
 libimobiledevice:SKP
@@ -193,7 +193,7 @@ libnjb:SKP
 libnl:SKP
 libnl3:ADD
 libnotify:SKP
-libnsl:SKP
+libnsl:ADD
 libnss_nis:SKP
 libodfgen:SKP
 libogg:SKP
@@ -374,5 +374,5 @@ wavpack:SKP
 woff2:SKP
 xapian-core:SKP
 xxHash:ADD
-zlib:SKP
+zlib:ADD
 zstd:ADD
